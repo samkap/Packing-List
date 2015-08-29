@@ -7,37 +7,39 @@ Packing-List
 ### Toiletries
 #### Hair
 - [ ]  Hairbrush
-- [ ]  Straightner
-- [ ]  Bobby pins and hair ties
-- [ ]  Giovanni hair serum
+- [ ]  Travel-size Chi Straightener
+- [ ]  Bobby pins
+- [ ]  moisturizing serum (for hotel and plan dry air)
 
-#### Face (non-makeup)
+#### Things I need to function
 - [ ]  Allergy medicine with decongestant (1 per day)
 - [ ]  Allergy Visine
 - [ ]  Travel-size toothpaste
 - [ ]  Toothbrush
+- [ ]  Eminence Linden Calendula Treatment Cream
+- [ ]  Body lotion or butter
+- [ ]  chapstick
 
 #### Face (makeup)
 ##### Day and Night
-- [ ]  Hourglass foundation
-- [ ]  Hourglass primer
-- [ ]  Mascara
-- [ ]  Eye-liner
+- [ ]  Bobby Brown foundation
+- [ ]  Hourglass/E.l.f primer
+- [ ]  E.l.f Mascara
+- [ ]  E.l.f Eye-liner
+- [ ]  under eye repair cream
 
 #### Day
-- [ ]  Revlon Nude lipstick
+- [ ]  Revlon Nude lipstick or E.l.f red lipstick
 
 #### Night
 - [ ]  Josie Maran Lip stain or ELF Red lipstick
 - [ ]  Bare Essentials highlight power
-- [ ]  Physicians Formula concealer
 
 #### Body
 - [ ]  lady products
-- [ ]  Travel-size lotion
 - [ ]  Lint-roller
 - [ ]  deodorant
-- [ ]  Tommy Hillfiger perfume
+- [ ]  Tommy perfume
 
 #### First Aid
 - [ ]  Aspirin
@@ -50,33 +52,39 @@ Packing-List
 - [ ]  Underwear
 - [ ]  Loft skinny jeans
 - [ ]  One Everlane box tee - black, white, or navy
-- [ ]  One Everlane full sleeve scoop neck - purple
-- [ ]  One Everlane u- or v-neck - military green, mauve, or stone
+- [ ]  One Everlane v-neck - gray or forest
+- [ ]  Sun glasses
 
 
 #### Tropical / Beach
-- [ ]  One to two Everlane Ryan tanks - black or white
+- [ ]  One to two Everlane Ryan tanks - black, gray, or white
 - [ ]  Polka Dot bikini
-- [ ]  Blue Blossom Palm bikini
-- [ ]  Gap shorts
+- [ ]  blue or white shorts
 - [ ]  orange sandals
+- [ ]  pink heels
 - [ ]  white flip-flop sandals
 - [ ]  Palm tree pants
+- [ ]  red crop top
 - [ ]  White jeans
-- [ ]  Black and White Romper
+- [ ]  Black and White Romper (floral or stripes)
+- [ ]  Delft pattern set
+- [ ]  pj shorts and tank
+- [ ]  yoga pants and sports bra
 
 #### Cold Climate
 - [ ]  Victoria Secret Trench Coat
 - [ ]  Strut infinity scarf
-- [ ]  Target boyfriend cardigan - black, burgundy, or light blue
-- [ ]  Patagonia purple base long sleeve tee
+- [ ]  Target boyfriend cardigan - black or light blue
 - [ ]  Black fleece base tights
-- [ ]  Fluffy collared military jacket
-- [ ]  military boots
+- [ ]  Hooded military jacket
+- [ ]  military boots (heeled)
 - [ ]  riding boots - black or brown
 - [ ]  thigh high and knee high socks
 - [ ]  Gap orange and blue shawl
 - [ ]  White Mossimo long sleeve layer tee
+- [ ]  gloves
+- [ ]  cold weather pjs
+- [ ]  yoga pants and sports bra
 
 
 ##### Ski-specific
@@ -84,25 +92,28 @@ Packing-List
 - [ ]  Patagonia Snow pants in military green
 - [ ]  Leather ski gloves
 - [ ]  Champion sports bra
-- [ ]  bandana
+- [ ]  ski bandana
 - [ ]  cold weather socks
 - [ ]  woolen hat
 
 
 ### Conference
-- [ ]  Pencil skirt
-- [ ]  tights
+- [ ]  tights (if taking a dress or skirt)
 - [ ]  Black leather jacket
-- [ ]  Everlane V-neck, white
+- [ ]  Military jacket
 - [ ]  Black blazer
 - [ ]  Light scarf: silk or blue infinity
+- [ ]  jeans
+- [ ]  brown military heeled boots
+- [ ]  pjs
 
 
 ### Electronics
 - [ ]  Laptop and charger
 - [ ]  Phone and charger
 - [ ]  headphones
-- [ ]  Camera and charged phone
+- [ ]  Karma wi-fi
+- [ ]  phone charger
 
 ### Other
 - [ ]  Sketchbook
