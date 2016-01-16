@@ -28,6 +28,7 @@ Packing-List
 - [ ]  E.l.f Eye-liner
 - [ ]  Cetaphil under eye repair cream
 - [ ]  Bare Essentials highlight power
+- [ ]  under eye repair cream
 
 #### Day
 - [ ]  Revlon Nude lipstick or E.l.f red lipstick
@@ -53,6 +54,7 @@ Packing-List
 - [ ]  One Everlane box tee - black, white, or navy
 - [ ]  One Everlane v-neck - gray, white, or forest
 - [ ]  Sun glasses
+
 
 #### Tropical / Beach
 - [ ]  One to two Everlane Ryan tanks - black, gray, or white
@@ -95,6 +97,7 @@ Packing-List
 - [ ]  woolen hat
 
 ### Conference-specific
+
 - [ ]  tights (if taking a dress or skirt)
 - [ ]  Black leather jacket
 - [ ]  Military jacket
