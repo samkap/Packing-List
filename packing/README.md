@@ -19,28 +19,29 @@ Packing-List
 - [ ]  Eminence Linden Calendula Treatment Cream
 - [ ]  Body lotion or butter
 - [ ]  chapstick
+- [ ] Crest White Strips
 
 #### Face (makeup)
 ##### Day and Night
 - [ ]  Bobby Brown foundation
-- [ ]  Hourglass/E.l.f primer
-- [ ]  E.l.f Mascara
-- [ ]  E.l.f Eye-liner
+- [ ]  Hourglass or ELF primer
+- [ ]  ELF Mascara
+- [ ]  CoverGirl Eye-liner
 - [ ]  Cetaphil under eye repair cream
 - [ ]  Bare Essentials highlight power
-- [ ]  under eye repair cream
+- [ ]  Origins Eye Doctor eye cream
 
 #### Day
-- [ ]  Revlon Nude lipstick or E.l.f red lipstick
+- [ ]  Kat Von D Lolita Lipstick
 
 #### Night
-- [ ]  Josie Maran Lip stain or ELF Red lipstick
+- [ ]  Stila or Relvon Red Lipstick
 
 #### Body
 - [ ]  lady products
 - [ ]  Lint-roller
 - [ ]  deodorant
-- [ ]  Tommy perfume
+- [ ]  Tommy perfume (if needed)
 
 #### First Aid
 - [ ]  Aspirin
@@ -51,32 +52,37 @@ Packing-List
 #### All the time
 - [ ]  Underwear
 - [ ]  Loft skinny jeans
-- [ ]  One Everlane box tee - black, white, or navy
-- [ ]  One Everlane v-neck - gray, white, or forest
-- [ ]  Sun glasses
+- [ ]  One Everlane box tee - black, white, or navy (optional)
+- [ ]  One Everlane v-neck - gray, white, or forest (if no box tee, then two v-necks)
+- [ ]  Sun glasses 
+- [ ]  Iron Yard Tee
 
 
 #### Tropical / Beach
 - [ ]  One to two Everlane Ryan tanks - black, gray, or white
-- [ ]  Polka Dot bikini
+- [ ]  Polka Dot, floral bikini
+- [ ]  Palm suit 
 - [ ]  blue or white shorts
-- [ ]  orange sandals
-- [ ]  pink heels
+- [ ]  espadrillas or sandals
+- [ ]  gray Cristian Siriano heels
 - [ ]  white flip-flop sandals
 - [ ]  Palm tree pants
 - [ ]  red crop top
+- [ ]  Peasant white crop top
 - [ ]  White jeans
-- [ ]  Black and White Romper (floral or stripes)
-- [ ]  Delft pattern set
+- [ ]  Black and White Romper (floral or stripes or both)
+- [ ]  Delft pattern set (optional)
 - [ ]  pj shorts and tank
-- [ ]  yoga pants and sports bra
+- [ ]  yoga pants, tanks
+- [ ] sports bra, running pants, and pumas
 
 #### Cold Climate
-- [ ]  Victoria Secret Trench Coat
+- [ ]  Victoria Secret Trench Coat or long pink vintage coat
 - [ ]  Strut infinity scarf
-- [ ]  Target boyfriend cardigan - black or light blue
+- [ ]  Target boyfriend cardigan - black, maroon or light blue
 - [ ]  Black fleece base tights (if really cold)
 - [ ]  Hooded military jacket
+- [ ]  Cape (Mango woolen cape or DC-style one) 
 - [ ]  military boots (heeled)
 - [ ]  riding boots - black or brown
 - [ ]  thigh high and knee high socks
@@ -85,6 +91,7 @@ Packing-List
 - [ ]  gloves
 - [ ]  cold weather pjs
 - [ ]  yoga pants and sports bra
+- [ ]  all the socks on earth
 
 
 ##### Ski-specific
@@ -97,7 +104,6 @@ Packing-List
 - [ ]  woolen hat
 
 ### Conference-specific
-
 - [ ]  tights (if taking a dress or skirt)
 - [ ]  Black leather jacket
 - [ ]  Military jacket
